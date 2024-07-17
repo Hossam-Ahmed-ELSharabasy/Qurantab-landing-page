@@ -1,8 +1,4 @@
 # Qurantab-landing-page
-
-Sure, here is a README template for the "Qurantab-landing-page" project:
-
-## Qurantab Landing Page
 Welcome to the Qurantab landing page repository. This project serves as the main landing page for Qurantab, showcasing its features, projects, and more.
 
 ## Projects Gallery
@@ -25,10 +21,7 @@ Check out the live demo of the Qurantab landing page here.
 - jQuery: Simplifies JavaScript tasks.
 
 ## Screenshots
-![](https://github.com/Hossam-Ahmed-ELSharabasy/Tic-Tac-Toe-/blob/main/Screenshot%202024-07-100608.jpg)
-
- 
-
+![](https://github.com/Hossam-Ahmed-ELSharabasy/Qurantab-landing-page/blob/main/screen%20shoot.png)
  
 
 ## Contributions
