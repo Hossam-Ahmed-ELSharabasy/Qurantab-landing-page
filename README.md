@@ -4,9 +4,6 @@ Welcome to the Qurantab landing page repository. This project serves as the main
 ## Projects Gallery
 Here you can find a showcase of various projects related to Qurantab. Each project is displayed with a brief description and a link for more details.
 
-## Live Demo
-Check out the live demo of the Qurantab landing page here.
-
 ## Features
 - Responsive Design: Optimized for different devices and screen sizes.
 - Interactive UI: Engaging and user-friendly interface.
@@ -19,10 +16,13 @@ Check out the live demo of the Qurantab landing page here.
 - JavaScript: Interactivity and functionality.
 - Bootstrap: Responsive design framework.
 - jQuery: Simplifies JavaScript tasks.
+- 
+ ## Live Demo
+You can view the live demo of the project [here](https://hossam-ahmed-elsharabasy.github.io/Qurantab-landing-page/).
 
 ## Screenshots
 ![](https://github.com/Hossam-Ahmed-ELSharabasy/Qurantab-landing-page/blob/main/screen%20shoot.png)
- 
+
 
 ## Contributions
 We welcome contributions from the community. If you want to contribute, please follow these steps:
@@ -37,9 +37,9 @@ Open a Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For any questions or feedback, please reach out to us at:
 
-## Email: contact@qurantab.com
-Twitter: @Qurantab
-LinkedIn: Qurantab
+## Contact
+For more information or inquiries, you can reach me through my social media profiles:
+
+- Linkedin - [@Hossam Ahmed El Sharabasy](https://www.linkedin.com/in/hossamelsharabasy/))
+
